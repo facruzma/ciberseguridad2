@@ -84,7 +84,7 @@ header h2
 
 nav
 {
-    ddisplay: inline-block;
+    display: inline-block;
     width: 740px;
     text-align: right;
 	padding-left:50px;
