@@ -35,7 +35,7 @@ body
 
 #main_wrapper
 {
-    width: 75%;
+    width: 90%
     margin: auto;
 }
 
@@ -85,7 +85,7 @@ header h2
 nav
 {
     display: inline-block;
-    width: 740px;
+    width: 70%
     text-align: right;
 	padding-left:50px;
 	
